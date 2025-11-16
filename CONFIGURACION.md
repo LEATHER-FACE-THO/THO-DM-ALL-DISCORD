@@ -43,10 +43,10 @@ NzI5NDUyMTU5MDk3.GqL5m4.fgh456ijk789lmn012opq345rst
 
 ### Formato INCORRECTO:
 ```
-MTA4NzE0MzY2NTAx.GqL5m2.xyz789abc123def456ghi789jklmno  <- ¡Espacios al final!
-  MzU4NDc2NzE3MDU0.GqL5m3.pqr123stu456vwx789yz0abc123de <- ¡Espacios al inicio!
+MTA4NzE0MzY2NTAx.GqL5m2.xyz789abc123def456ghi789jklmno  <- No dejar ¡Espacios al final!
+  MzU4NDc2NzE3MDU0.GqL5m3.pqr123stu456vwx789yz0abc123de <- No dejar ¡Espacios al inicio!
 
-NzI5NDUyMTU5MDk3.GqL5m4.fgh456ijk789lmn012opq345rst     <- ¡Línea en blanco!
+NzI5NDUyMTU5MDk3.GqL5m4.fgh456ijk789lmn012opq345rst     <- No dejar ¡Línea en blanco!
 ```
 
 ### Reglas:

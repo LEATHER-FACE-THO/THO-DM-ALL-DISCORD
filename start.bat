@@ -34,10 +34,11 @@ if not exist "tokens.txt" (
 echo [*] Iniciando bots...
 echo.
 
-REM Ejecutar el script principal
+REM Ejecutar el script principal (mantener la ventana abierta mientras funciona)
+cd /d "%~dp0"
 node assest/node.js
 
-REM Si el script termina, mantener la ventana abierta
+REM Si el script termina por error, mantener la ventana abierta
 echo.
 color 0C
 echo [!] El script ha terminado. Presiona cualquier tecla para cerrar...
