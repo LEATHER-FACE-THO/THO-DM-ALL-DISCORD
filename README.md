@@ -1,6 +1,6 @@
 # THO DM ALL DISCORD - SPAMEA CON MAS DE 50 BOT A UN USUARIO EN DISCORD
 
-![THO HACK](https://i.imgur.com/AfFp7pu.png)
+![THO DM_ALL_DISCORD](https://imgur.com/a/HLEjzdS)
 
 ## 📋 Descripción
 
@@ -431,3 +431,4 @@ Diseñado para uso educativo y de testing.
 ║           THO DM ALL DISCORD           ║
 ╚════════════════════════════════════════╝
 ```
+
